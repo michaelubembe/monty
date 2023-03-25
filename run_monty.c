@@ -1,7 +1,7 @@
 /*
  * File: run_monty.c
- * Auth: Bennett Dixon
- *       Brennan D Baraban
+ * Auth: 
+ *       
  */
 
 #include "monty.h"

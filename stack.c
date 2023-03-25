@@ -1,7 +1,7 @@
 /*
  * File: stack.c
- * Auth: Bennett Dixon
- *       Brennan D Baraban
+ * Auth: ....
+ *
  */
 
 #include "monty.h"

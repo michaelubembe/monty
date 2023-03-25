@@ -1,6 +1,6 @@
 /*
  * File: int_to_string.c
- * Auth: Bennett Dixon
+ * Auth: ....
  */
 
 #include <stdlib.h>
